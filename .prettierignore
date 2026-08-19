@@ -1,0 +1,7 @@
+node_modules
+.next
+dist
+build
+.vscode
+package-lock.json
+public
